@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OOP_Proiect_Musoiu_Florin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Zona.h(19,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Zona.h(184,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Eveniment.h(24,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Eveniment.h(29,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Bilet.h(25,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Bilet.h(45,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\BiletStudent.h(15,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Main.cpp(90,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Main.cpp(133,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\OOP_Proiect_Musoiu_Florin\Main.cpp(143,9): warning C4101: 'nrZone': unreferenced local variable
+  OOP_Proiect_Musoiu_Florin.vcxproj -> C:\Users\Daniel\source\repos\OOP_Proiect_Musoiu_Florin\x64\Debug\OOP_Proiect_Musoiu_Florin_Final.exe
